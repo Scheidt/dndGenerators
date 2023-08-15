@@ -5,7 +5,7 @@ def genericDie(faces):
 
 def roll(diceCode: str):
     ammount = int(diceCode[0])
-    numOfFaces = int(diceCode[2, -1])
+    numOfFaces = int(diceCode[2:])
     result = []
     while ammount <= 1:
         result.append(genericDie(numOfFaces))
