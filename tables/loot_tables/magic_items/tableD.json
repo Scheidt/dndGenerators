@@ -1,0 +1,112 @@
+[
+    {
+        "weight": [
+            1,
+            20
+        ],
+        "name": "Potion of supreme healing"
+    },
+    {
+        "weight": [
+            21,
+            30
+        ],
+        "name": "Potion of invisibility"
+    },
+    {
+        "weight": [
+            31,
+            40
+        ],
+        "name": "Potion of speed"
+    },
+    {
+        "weight": [
+            41,
+            50
+        ],
+        "name": "Spell scroll (6thlevel)"
+    },
+    {
+        "weight": [
+            51,
+            57
+        ],
+        "name": "Spell scroll (7thlevel)"
+    },
+    {
+        "weight": [
+            58,
+            62
+        ],
+        "name": "Ammunition, +3"
+    },
+    {
+        "weight": [
+            63,
+            67
+        ],
+        "name": "Oil of sharpness"
+    },
+    {
+        "weight": [
+            68,
+            72
+        ],
+        "name": "Potion of flying"
+    },
+    {
+        "weight": [
+            73,
+            77
+        ],
+        "name": "Potion of cloud giant strength"
+    },
+    {
+        "weight": [
+            78,
+            82
+        ],
+        "name": "Potion of longevity"
+    },
+    {
+        "weight": [
+            83,
+            87
+        ],
+        "name": "Potion of vitality"
+    },
+    {
+        "weight": [
+            88,
+            92
+        ],
+        "name": "Spell scroll (8thlevel)"
+    },
+    {
+        "weight": [
+            93,
+            95
+        ],
+        "name": "Horseshoes of a zephyr"
+    },
+    {
+        "weight": [
+            96,
+            98
+        ],
+        "name": "Nolzur's marvelous pigments"
+    },
+    {
+        "weight": [
+            99
+        ],
+        "name": "Bag of devouring"
+    },
+    {
+        "weight": [
+            100
+        ],
+        "name": "Portable hole"
+    }
+]

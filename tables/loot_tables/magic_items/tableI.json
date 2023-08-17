@@ -1,0 +1,439 @@
+[
+    {
+        "weight": [
+            1,
+            10
+        ],
+        "name": "Weapon, +3"
+    },
+    {
+        "weight": [
+            11,
+            12
+        ],
+        "name": "Amulet of the planes"
+    },
+    {
+        "weight": [
+            13,
+            14
+        ],
+        "name": "Carpet of flying"
+    },
+    {
+        "weight": [
+            15,
+            16
+        ],
+        "name": "Crystal ball (very rare version)"
+    },
+    {
+        "weight": [
+            17,
+            18
+        ],
+        "name": "Ring of regeneration"
+    },
+    {
+        "weight": [
+            19,
+            20
+        ],
+        "name": "Ring of shooting stars"
+    },
+    {
+        "weight": [
+            21,
+            22
+        ],
+        "name": "Ring of telekinesis"
+    },
+    {
+        "weight": [
+            23,
+            24
+        ],
+        "name": "Robe of scintillating colors"
+    },
+    {
+        "weight": [
+            25,
+            26
+        ],
+        "name": "Robe of stars"
+    },
+    {
+        "weight": [
+            27,
+            28
+        ],
+        "name": "Rod of absorption"
+    },
+    {
+        "weight": [
+            29,
+            30
+        ],
+        "name": "Rod of alertness"
+    },
+    {
+        "weight": [
+            31,
+            32
+        ],
+        "name": "Rod of security"
+    },
+    {
+        "weight": [
+            33,
+            34
+        ],
+        "name": "Rod of the pact keeper, +3"
+    },
+    {
+        "weight": [
+            35,
+            36
+        ],
+        "name": "Scimitar of speed"
+    },
+    {
+        "weight": [
+            37,
+            38
+        ],
+        "name": "Shield, +3"
+    },
+    {
+        "weight": [
+            39,
+            40
+        ],
+        "name": "Staff of fire"
+    },
+    {
+        "weight": [
+            41,
+            42
+        ],
+        "name": "Staff of frost"
+    },
+    {
+        "weight": [
+            43,
+            44
+        ],
+        "name": "Staff of power"
+    },
+    {
+        "weight": [
+            45,
+            46
+        ],
+        "name": "Staff of striking"
+    },
+    {
+        "weight": [
+            47,
+            48
+        ],
+        "name": "Staff of thunder and lightning"
+    },
+    {
+        "weight": [
+            49,
+            50
+        ],
+        "name": "Sword of sharpnes"
+    },
+    {
+        "weight": [
+            51,
+            52
+        ],
+        "name": "Wand of polymorph"
+    },
+    {
+        "weight": [
+            53,
+            54
+        ],
+        "name": "Wand of the war mage, + 3"
+    },
+    {
+        "weight": [
+            55
+        ],
+        "name": "Adamantine armor (half plate)"
+    },
+    {
+        "weight": [
+            56
+        ],
+        "name": "Adamantine armor (plate)"
+    },
+    {
+        "weight": [
+            57
+        ],
+        "name": "Animated shield"
+    },
+    {
+        "weight": [
+            58
+        ],
+        "name": "Belt of fire giant strength"
+    },
+    {
+        "weight": [
+            59
+        ],
+        "name": "Belt of frost (or stone) giant strength"
+    },
+    {
+        "weight": [
+            60
+        ],
+        "name": "Armor, + 1 breastplate"
+    },
+    {
+        "weight": [
+            61
+        ],
+        "name": "Armor of resistance (breastplate)"
+    },
+    {
+        "weight": [
+            62
+        ],
+        "name": "Candle of invocation"
+    },
+    {
+        "weight": [
+            63
+        ],
+        "name": "Armor, +2 chain mail"
+    },
+    {
+        "weight": [
+            64
+        ],
+        "name": "Armor, +2 chain shirt"
+    },
+    {
+        "weight": [
+            65
+        ],
+        "name": "Cloak of arachnida"
+    },
+    {
+        "weight": [
+            66
+        ],
+        "name": "Dancing sword"
+    },
+    {
+        "weight": [
+            67
+        ],
+        "name": "Demon armor"
+    },
+    {
+        "weight": [
+            68
+        ],
+        "name": "Dragon scale mail"
+    },
+    {
+        "weight": [
+            69
+        ],
+        "name": "Dwarven plate"
+    },
+    {
+        "weight": [
+            70
+        ],
+        "name": "Dwarven thrower"
+    },
+    {
+        "weight": [
+            71
+        ],
+        "name": "Efreeti bottle"
+    },
+    {
+        "weight": [
+            72
+        ],
+        "name": "Figurine of wondrous power (obsidian steed)"
+    },
+    {
+        "weight": [
+            73
+        ],
+        "name": "Frost brand"
+    },
+    {
+        "weight": [
+            74
+        ],
+        "name": "Helm of brilliance"
+    },
+    {
+        "weight": [
+            75
+        ],
+        "name": "Horn ofValhalla (bronze)"
+    },
+    {
+        "weight": [
+            76
+        ],
+        "name": "Instrument of the bards (Anstruthharp)"
+    },
+    {
+        "weight": [
+            77
+        ],
+        "name": "loun stone (absorption)"
+    },
+    {
+        "weight": [
+            78
+        ],
+        "name": "loun stone (agility)"
+    },
+    {
+        "weight": [
+            79
+        ],
+        "name": "loun stone (fortitude)"
+    },
+    {
+        "weight": [
+            80
+        ],
+        "name": "loun stone (insight)"
+    },
+    {
+        "weight": [
+            81
+        ],
+        "name": "loun stone (intellect)"
+    },
+    {
+        "weight": [
+            82
+        ],
+        "name": "loun stone (leadership)"
+    },
+    {
+        "weight": [
+            83
+        ],
+        "name": "loun stone (strength)"
+    },
+    {
+        "weight": [
+            84
+        ],
+        "name": "Armor, +2 leather"
+    },
+    {
+        "weight": [
+            85
+        ],
+        "name": "Manual of bodily health"
+    },
+    {
+        "weight": [
+            86
+        ],
+        "name": "Manual of gainful exercise"
+    },
+    {
+        "weight": [
+            87
+        ],
+        "name": "Manual of golems"
+    },
+    {
+        "weight": [
+            88
+        ],
+        "name": "Manual of quickness of action"
+    },
+    {
+        "weight": [
+            89
+        ],
+        "name": "Mirror of life trapping"
+    },
+    {
+        "weight": [
+            90
+        ],
+        "name": "Nine lives stealer"
+    },
+    {
+        "weight": [
+            91
+        ],
+        "name": "Oathbow"
+    },
+    {
+        "weight": [
+            92
+        ],
+        "name": "Armor, +2 scale mail"
+    },
+    {
+        "weight": [
+            93
+        ],
+        "name": "Spellguard shield"
+    },
+    {
+        "weight": [
+            94
+        ],
+        "name": "Armor, + 1 splint"
+    },
+    {
+        "weight": [
+            95
+        ],
+        "name": "Armor of resistance (splint)"
+    },
+    {
+        "weight": [
+            96
+        ],
+        "name": "Armor, + 1 studded leather"
+    },
+    {
+        "weight": [
+            97
+        ],
+        "name": "Armor of resistance (studded leather)"
+    },
+    {
+        "weight": [
+            98
+        ],
+        "name": "Tome of clear thought"
+    },
+    {
+        "weight": [
+            99
+        ],
+        "name": "Tome of leadership and influence"
+    },
+    {
+        "weight": [
+            100
+        ],
+        "name": "Tome of understanding"
+    }
+]

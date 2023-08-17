@@ -1,0 +1,51 @@
+[
+    {
+        "weight": [
+            1,
+            30
+        ],
+        "name": "Spell scroll (8thlevel)"
+    },
+    {
+        "weight": [
+            31,
+            55
+        ],
+        "name": "Potion of storm giant strength"
+    },
+    {
+        "weight": [
+            56,
+            70
+        ],
+        "name": "Poti on of supreme healing"
+    },
+    {
+        "weight": [
+            71,
+            85
+        ],
+        "name": "Spell scroll (9st level)"
+    },
+    {
+        "weight": [
+            86,
+            93
+        ],
+        "name": "Universal solvent"
+    },
+    {
+        "weight": [
+            94,
+            98
+        ],
+        "name": "Arrow of slaying"
+    },
+    {
+        "weight": [
+            99,
+            100
+        ],
+        "name": "Sovereign glue"
+    }
+]

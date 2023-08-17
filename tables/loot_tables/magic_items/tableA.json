@@ -1,0 +1,56 @@
+[
+    {
+        "weight": [
+            1,
+            50
+        ],
+        "name": "Potion of healing"
+    },
+    {
+        "weight": [
+            51,
+            60
+        ],
+        "name": "Spell scroll (cantrip)"
+    },
+    {
+        "weight": [
+            61,
+            70
+        ],
+        "name": "Potion of climbing"
+    },
+    {
+        "weight": [
+            71,
+            90
+        ],
+        "name": "Spell scroll (1st level)"
+    },
+    {
+        "weight": [
+            91,
+            94
+        ],
+        "name": "Spell scroll (2nd level)"
+    },
+    {
+        "weight": [
+            95,
+            98
+        ],
+        "name": "Potion of greater healing"
+    },
+    {
+        "weight": [
+            99
+        ],
+        "name": "Bag of holding"
+    },
+    {
+        "weight": [
+            100
+        ],
+        "name": "Driftglobe"
+    }
+]
