@@ -1,0 +1,230 @@
+[
+    {
+        "weight": [
+            1,
+            15
+        ],
+        "name": "Potion of greater healing"
+    },
+    {
+        "weight": [
+            16,
+            22
+        ],
+        "name": "Potion of fire breath"
+    },
+    {
+        "weight": [
+            23,
+            29
+        ],
+        "name": "Potion of resistance"
+    },
+    {
+        "weight": [
+            30,
+            34
+        ],
+        "name": "Ammunition, +1"
+    },
+    {
+        "weight": [
+            35,
+            39
+        ],
+        "name": "Potion of animal friendship"
+    },
+    {
+        "weight": [
+            40,
+            44
+        ],
+        "name": "Potion of hill giant strength"
+    },
+    {
+        "weight": [
+            45,
+            49
+        ],
+        "name": "Potion of growth"
+    },
+    {
+        "weight": [
+            50,
+            54
+        ],
+        "name": "Potion of water breathing"
+    },
+    {
+        "weight": [
+            55,
+            59
+        ],
+        "name": "Spell scroll (2nd level)"
+    },
+    {
+        "weight": [
+            60,
+            64
+        ],
+        "name": "Spell scroll (3rd level)"
+    },
+    {
+        "weight": [
+            65,
+            67
+        ],
+        "name": "Bag of holding"
+    },
+    {
+        "weight": [
+            68,
+            70
+        ],
+        "name": "Keoghtom's ointment"
+    },
+    {
+        "weight": [
+            71,
+            73
+        ],
+        "name": "Oil of slipperiness"
+    },
+    {
+        "weight": [
+            74,
+            75
+        ],
+        "name": "Dust of disappearance"
+    },
+    {
+        "weight": [
+            76,
+            77
+        ],
+        "name": "Dust of dryness"
+    },
+    {
+        "weight": [
+            78,
+            79
+        ],
+        "name": "Dust of sneezing and choking"
+    },
+    {
+        "weight": [
+            80,
+            81
+        ],
+        "name": "Elemental gem"
+    },
+    {
+        "weight": [
+            82,
+            83
+        ],
+        "name": "Philter of love"
+    },
+    {
+        "weight": [
+            84
+        ],
+        "name": "Alchemy jug"
+    },
+    {
+        "weight": [
+            85
+        ],
+        "name": "Cap of water breathing"
+    },
+    {
+        "weight": [
+            86
+        ],
+        "name": "Cloak of the manta ray"
+    },
+    {
+        "weight": [
+            87
+        ],
+        "name": "Driftglobe"
+    },
+    {
+        "weight": [
+            88
+        ],
+        "name": "Goggles of night"
+    },
+    {
+        "weight": [
+            89
+        ],
+        "name": "Helm of comprehending languages"
+    },
+    {
+        "weight": [
+            90
+        ],
+        "name": "Immovable rod"
+    },
+    {
+        "weight": [
+            91
+        ],
+        "name": "Lantern of revealing"
+    },
+    {
+        "weight": [
+            92
+        ],
+        "name": "Mariner's armor"
+    },
+    {
+        "weight": [
+            93
+        ],
+        "name": "Mithral armor"
+    },
+    {
+        "weight": [
+            94
+        ],
+        "name": "Potion of poison"
+    },
+    {
+        "weight": [
+            95
+        ],
+        "name": "Ring of swimming"
+    },
+    {
+        "weight": [
+            96
+        ],
+        "name": "Robe of useful items"
+    },
+    {
+        "weight": [
+            97
+        ],
+        "name": "Rope of climbing"
+    },
+    {
+        "weight": [
+            98
+        ],
+        "name": "Saddle of the cavalier"
+    },
+    {
+        "weight": [
+            99
+        ],
+        "name": "Wand of magic detection"
+    },
+    {
+        "weight": [
+            100
+        ],
+        "name": "Wand of secrets"
+    }
+]

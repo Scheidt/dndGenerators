@@ -1,0 +1,387 @@
+[
+    {
+        "weight": [
+            1,
+            15
+        ],
+        "name": "Weapon, +1"
+    },
+    {
+        "weight": [
+            16,
+            18
+        ],
+        "name": "Shield,+ 1"
+    },
+    {
+        "weight": [
+            19,
+            21
+        ],
+        "name": "Sentinel shield"
+    },
+    {
+        "weight": [
+            22,
+            23
+        ],
+        "name": "Amulet of proof against detection and location"
+    },
+    {
+        "weight": [
+            24,
+            25
+        ],
+        "name": "Boots of elvenkind"
+    },
+    {
+        "weight": [
+            26,
+            27
+        ],
+        "name": "Boots of striding and springing"
+    },
+    {
+        "weight": [
+            27,
+            29
+        ],
+        "name": "Bracers of archery"
+    },
+    {
+        "weight": [
+            30,
+            31
+        ],
+        "name": "Brooch of shielding"
+    },
+    {
+        "weight": [
+            32,
+            33
+        ],
+        "name": "Broom of flying"
+    },
+    {
+        "weight": [
+            34,
+            35
+        ],
+        "name": "Cloak of elvenkind"
+    },
+    {
+        "weight": [
+            36,
+            37
+        ],
+        "name": "Cloak of protection"
+    },
+    {
+        "weight": [
+            38,
+            39
+        ],
+        "name": "Gauntlets of ogre power"
+    },
+    {
+        "weight": [
+            40,
+            41
+        ],
+        "name": "Hat of disguise"
+    },
+    {
+        "weight": [
+            42,
+            43
+        ],
+        "name": "Javelin of lightning"
+    },
+    {
+        "weight": [
+            44,
+            45
+        ],
+        "name": "Pearl of power"
+    },
+    {
+        "weight": [
+            46,
+            47
+        ],
+        "name": "Rod of the pact keeper, + 1"
+    },
+    {
+        "weight": [
+            48,
+            49
+        ],
+        "name": "Slippers of spider climbing"
+    },
+    {
+        "weight": [
+            50,
+            51
+        ],
+        "name": "Staff of the adder"
+    },
+    {
+        "weight": [
+            52,
+            53
+        ],
+        "name": "Staff of the python"
+    },
+    {
+        "weight": [
+            54,
+            55
+        ],
+        "name": "Sword of vengeance"
+    },
+    {
+        "weight": [
+            56,
+            57
+        ],
+        "name": "Trident of fish command"
+    },
+    {
+        "weight": [
+            58,
+            59
+        ],
+        "name": "Wand of magic missiles"
+    },
+    {
+        "weight": [
+            60,
+            61
+        ],
+        "name": "Wand of the war mage, + 1"
+    },
+    {
+        "weight": [
+            62,
+            63
+        ],
+        "name": "Wand of web"
+    },
+    {
+        "weight": [
+            64,
+            65
+        ],
+        "name": "Weapon of warning"
+    },
+    {
+        "weight": [
+            66
+        ],
+        "name": "Adamantine armor (chain mail)"
+    },
+    {
+        "weight": [
+            67
+        ],
+        "name": "Adamantine armor (chain shirt)"
+    },
+    {
+        "weight": [
+            68
+        ],
+        "name": "Adamantine armor (scale mail)"
+    },
+    {
+        "weight": [
+            69
+        ],
+        "name": "Bag of tricks (gray)"
+    },
+    {
+        "weight": [
+            70
+        ],
+        "name": "Bag of tricks (rust)"
+    },
+    {
+        "weight": [
+            71
+        ],
+        "name": "Bag of tricks (tan)"
+    },
+    {
+        "weight": [
+            72
+        ],
+        "name": "Boots of the winterlands"
+    },
+    {
+        "weight": [
+            73
+        ],
+        "name": "Circlet of blasting"
+    },
+    {
+        "weight": [
+            74
+        ],
+        "name": "Deck of illusions"
+    },
+    {
+        "weight": [
+            75
+        ],
+        "name": "Eversmoking bottle"
+    },
+    {
+        "weight": [
+            76
+        ],
+        "name": "Eyes of charming"
+    },
+    {
+        "weight": [
+            77
+        ],
+        "name": "Eyes of the eagle"
+    },
+    {
+        "weight": [
+            78
+        ],
+        "name": "Figurine of wondrous power (silver raven)"
+    },
+    {
+        "weight": [
+            79
+        ],
+        "name": "Gem of brightness"
+    },
+    {
+        "weight": [
+            80
+        ],
+        "name": "Gloves of missile snaring"
+    },
+    {
+        "weight": [
+            81
+        ],
+        "name": "Gloves of swimming and climbing"
+    },
+    {
+        "weight": [
+            82
+        ],
+        "name": "Gloves of thievery"
+    },
+    {
+        "weight": [
+            83
+        ],
+        "name": "Headband of intellect"
+    },
+    {
+        "weight": [
+            84
+        ],
+        "name": "Helm of telepathy"
+    },
+    {
+        "weight": [
+            85
+        ],
+        "name": "Instrument of the bards (Doss lute)"
+    },
+    {
+        "weight": [
+            86
+        ],
+        "name": "Instrument of the bards (Fochlucan bandore)"
+    },
+    {
+        "weight": [
+            87
+        ],
+        "name": "Instrument of the bards (Mac-Fuimidh cittern)"
+    },
+    {
+        "weight": [
+            88
+        ],
+        "name": "Medallion of thoughts"
+    },
+    {
+        "weight": [
+            89
+        ],
+        "name": "Necklace of adaptation"
+    },
+    {
+        "weight": [
+            90
+        ],
+        "name": "Periapt of wound closure"
+    },
+    {
+        "weight": [
+            91
+        ],
+        "name": "Pipes of haunting"
+    },
+    {
+        "weight": [
+            92
+        ],
+        "name": "Pipes of the sewers"
+    },
+    {
+        "weight": [
+            93
+        ],
+        "name": "Ring of jumping"
+    },
+    {
+        "weight": [
+            94
+        ],
+        "name": "Ring of mind shielding"
+    },
+    {
+        "weight": [
+            95
+        ],
+        "name": "Ring of warmth"
+    },
+    {
+        "weight": [
+            96
+        ],
+        "name": "Ring of water walking"
+    },
+    {
+        "weight": [
+            97
+        ],
+        "name": "Quiver of Ehlonna"
+    },
+    {
+        "weight": [
+            98
+        ],
+        "name": "Stone of good luck"
+    },
+    {
+        "weight": [
+            99
+        ],
+        "name": "Wind fan"
+    },
+    {
+        "weight": [
+            100
+        ],
+        "name": "Winged boots"
+    }
+]

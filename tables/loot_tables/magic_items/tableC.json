@@ -1,0 +1,189 @@
+[
+    {
+        "weight": [
+            1,
+            15
+        ],
+        "name": "Potion of superior healing"
+    },
+    {
+        "weight": [
+            16,
+            22
+        ],
+        "name": "Spell scroll (4thlevel)"
+    },
+    {
+        "weight": [
+            23,
+            27
+        ],
+        "name": "Ammunition, +2"
+    },
+    {
+        "weight": [
+            28,
+            32
+        ],
+        "name": "Potion of clairvoyance"
+    },
+    {
+        "weight": [
+            33,
+            37
+        ],
+        "name": "Potion of diminution"
+    },
+    {
+        "weight": [
+            38,
+            42
+        ],
+        "name": "Potion of gaseous form"
+    },
+    {
+        "weight": [
+            43,
+            47
+        ],
+        "name": "Potion of frost giant strength"
+    },
+    {
+        "weight": [
+            48,
+            52
+        ],
+        "name": "Potion of stone giant strength"
+    },
+    {
+        "weight": [
+            53,
+            57
+        ],
+        "name": "Potion of heroism"
+    },
+    {
+        "weight": [
+            58,
+            62
+        ],
+        "name": "Potion of invulnerability"
+    },
+    {
+        "weight": [
+            63,
+            67
+        ],
+        "name": "Potion of mind reading"
+    },
+    {
+        "weight": [
+            68,
+            72
+        ],
+        "name": "Spell scroll (5thlevel)"
+    },
+    {
+        "weight": [
+            73,
+            75
+        ],
+        "name": "Elixir of health"
+    },
+    {
+        "weight": [
+            76,
+            78
+        ],
+        "name": "Oil of etherealness"
+    },
+    {
+        "weight": [
+            79,
+            81
+        ],
+        "name": "Potion of fire giant strength"
+    },
+    {
+        "weight": [
+            82,
+            84
+        ],
+        "name": "Quaal's feather token"
+    },
+    {
+        "weight": [
+            85,
+            87
+        ],
+        "name": "Scroll of protection"
+    },
+    {
+        "weight": [
+            88,
+            89
+        ],
+        "name": "Bag of beans"
+    },
+    {
+        "weight": [
+            90,
+            91
+        ],
+        "name": "Bead of force"
+    },
+    {
+        "weight": [
+            92
+        ],
+        "name": "Chime of opening"
+    },
+    {
+        "weight": [
+            93
+        ],
+        "name": "Decanter of endless water"
+    },
+    {
+        "weight": [
+            94
+        ],
+        "name": "Eyes of minute seeing"
+    },
+    {
+        "weight": [
+            95
+        ],
+        "name": "Folding boat"
+    },
+    {
+        "weight": [
+            96
+        ],
+        "name": "Heward's handy haversack"
+    },
+    {
+        "weight": [
+            97
+        ],
+        "name": "Horseshoes of speed"
+    },
+    {
+        "weight": [
+            98
+        ],
+        "name": "Necklace of fireballs"
+    },
+    {
+        "weight": [
+            99
+        ],
+        "name": "Periapt of health"
+    },
+    {
+        "weight": [
+            100
+        ],
+        "name": "Sending Stones"
+    }
+]
